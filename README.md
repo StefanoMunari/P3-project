@@ -4,9 +4,11 @@ Risolutore di Puzzle (Università degli Studi di Padova, Progetto didattico rela
 # Che cos'è?
 Progetto che consiste nella realizzazione di un risolutore di puzzle, sono state previste 3 versioni dello stesso programma che vengono identificate dalle 3 parti in cui viene presentato:
 
-parte1: versione sequenziale;
-parte2: versione concorrente;
-parte3: versione concorrente e distribuita;
+-parte1: versione sequenziale;
+
+-parte2: versione concorrente;
+
+-parte3: versione concorrente e distribuita;
 
 Tutte le parti sono state implementate utilizzando il linguaggio Java in quanto richiesto dal corso.
 
