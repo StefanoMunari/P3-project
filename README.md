@@ -22,13 +22,13 @@ Tutte le parti sono state implementate utilizzando il linguaggio Java in quanto 
 		|
 		|__ esempio_input.txt: contiene un puzzle non risolto, da utilizzare come input di prova;
 		|
-		|__ bin: cartella che contiene i file binari;
+		|__ bin/: cartella che contiene i file binari;
 		|
-		|__ src: cartella che contiene i sorgenti;
+		|__ src/: cartella che contiene i sorgenti;
 		|
-		|__ docs: cartella contenente documenti, generalmente specifica di progetto e relazione;
+		|__ docs/: cartella contenente documenti, generalmente specifica di progetto e relazione;
 		|
-		|__ test: cartella contenente file .txt utili per testare il programma.
+		|__ test/: cartella contenente file .txt utili per testare il programma.
 
 # Licenza:
 
