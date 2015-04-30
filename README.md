@@ -1,7 +1,7 @@
 # P3-project
 Risolutore di Puzzle (Università degli Studi di Padova, Progetto didattico relativo al corso di Programmazione concorrente e distribuita 2014/2015, Stefano Munari)
 
-# Che cos'è?
+# Descrizione
 Progetto che consiste nella realizzazione di un risolutore di puzzle, sono state previste 3 versioni dello stesso programma che vengono identificate dalle 3 parti in cui viene presentato:
 
 -parte1: versione sequenziale;
